@@ -1,0 +1,21 @@
+{
+  "name": "c0884754_classassignment_3",
+  "version": "1.0.0",
+  "description": "Devops-Assignment3 For Node Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "devops",
+    "assignment3",
+    "express"
+  ],
+  "author": "C0884754-Anirudh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

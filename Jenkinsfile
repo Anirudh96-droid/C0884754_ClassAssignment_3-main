@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('Cloning Git') {
       steps {
-        git([url: 'https://github.com/Anirudh96-droid/C0884754_ClassAssignment_3-main.git', branch: 'master'])
+        git([url: 'https://github.com/Anirudh96-droid/C0884754_ClassAssignment_3-main.git', branch: 'main'])
  
       }
     }
